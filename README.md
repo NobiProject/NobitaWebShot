@@ -24,7 +24,7 @@ Splitting of long pages are available for png and jpeg.
 Simply clone the repository and run the main file:
 
 ```sh
-git clone https://github.com/alenpaul2001/Web-Screenshot-Bot.git
+git clone https://github.com/nobitanobi/nobiwebshot.git
 cd Web-Screenshot-Bot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -35,14 +35,14 @@ python3 __main__.py
 #### an example config.py 👇
 ```py
 class Config:
-    BOT_TOKEN = "12345:49dc3eeb1aehda3cI2TesHNHc"
-    API_ID = 256123
-    API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+    BOT_TOKEN = "12345:49dc3eeb1aehia5cI2TesHNHc"
+    API_ID = 259423
+    API_HASH = "eb06d4abfb49dc3eeb1aebf581e"
     # Leave this None to automatically download chrome binary
     EXEC_PATH = None
     # Optional Fields
-    LOG_GROUP = -123990002
-    SUPPORT_GROUP_LINK = "https://t.me/bytessupport"
+    LOG_GROUP = -123993202
+    SUPPORT_GROUP_LINK = "https://t.me/botsupportgr"
 ```
 
 
@@ -50,17 +50,17 @@ class Config:
 
 [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
-[Mattwmaster58](https://github.com/Mattwmaster58) for the port of [Pyppeteer Library](https://github.com/pyppeteer/pyppeteer)
+[Mattwmaster58](https://github.com/NobitaNobi) for the port of [Pyppeteer Library](https://github.com/NobitaNobi/nobiwebshot)
 
 ### special thanks to :
 
-[<\-W4RR10R-/>](https://github.com/CW4RR10R) and [@SpEcHIDe](https://github.com/SpEcHiDe) for helping me.
+[<\-W4RR10R-/>](https://github.com/KratosProject) and [@Kratos_71](https://t.me/Kratos_71) for helping me.
 
-[Λиʞ⫯𝚝⅁øμϩᴧ⋎](https://github.com/Ankit-Gourav) and 
-[//𝚂𝚊𝚢𝚊𝚗𝚝𝚑//](https://github.com/SayanthD) for suggesting new features.
+[Λиʞ⫯𝚝⅁øμϩᴧ⋎](https://github.com/KratosProject) and 
+[//NobitaNobi//](https://github.com/NobitaNobi) for suggesting new features.
 
-### Made with ❤️️ in Kerala
+### Made with ❤️️ in India
 ### Copyright & License 
 
-* Copyright (C) 2021 by [AlenPaulVarghese](https://github.com/alenpaul2001)
-* Licensed under the terms of the [GNU AGPL Version 3.0](https://github.com/alenpaul2001/Web-Screenshot-Bot/blob/master/LICENSE)
+* Copyright (C) 2021 by [NobitaNobi](https://github.com/NobitaNobi)
+* Licensed under the terms of the [GNU AGPL Version 3.0](https://github.com/NobitaNobi/NobiWebShot/blob/master/LICENSE)
