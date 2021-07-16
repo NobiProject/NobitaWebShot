@@ -25,7 +25,7 @@ Simply clone the repository and run the main file:
 
 ```sh
 git clone https://github.com/nobitanobi/nobiwebshot.git
-cd Web-Screenshot-Bot
+cd NobiWebshot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip3 install -r requirements.txt
